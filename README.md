@@ -14,9 +14,7 @@ Dark-themed interface with clickable buttons and a clear (C) function.
 1. Run `calculator.py` with Python 3 to use the script.
 2. Or download `calculator.exe` to run it directly on Windows.
 
-## Screenshots
-*(Add screenshots here to showcase the interface)*
-
 ## License
 Feel free to use, modify, and share this project.
+
 
